@@ -1,5 +1,7 @@
 # 2020 Brake
 Racing sim Ebrake that has the same bolt pattern as the Moza!
+<img width="1920" height="1080" alt="ebrake render" src="https://github.com/user-attachments/assets/d23dcd84-e73c-46c8-b06e-be4e0abb9cc6" />
+
 ## Why does this exist?
   I wanted an ebrake but all of the existing solutions either looked kind of boring or were extremely expensive (moza handbrake). 
 # Build

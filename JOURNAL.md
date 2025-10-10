@@ -10,8 +10,16 @@ This is my journal of the design and building process of **Sim Ebrake**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/362).
 
 
-## 10/9/2025 - Started the 3d model and part sourcing  
+## 10/9/2025 8 PM - Started the 3d model and part sourcing  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--a8d30a4551ce408ef164b63d73dfda106e6d0f4f/image.png)
 So far, I have decided what parts I will be using for the mechanisms, bearings, rods, etc. And started work on the actual model for the project! The electronics of the ebrake will be a Hall effect sensor with a promicro to read the values and send them to the pc. (still working on implementing those into the model)  
+
+## 10/9/2025 9 PM - Added the electronics and springs to the model in fusion  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f67d352c3d20fe1a24efb18d352a800c48065ef6/image.png)
+I added the Pro Micro, hall effect sensor, magnet, and spring. I also modeled the side of the chassis. I also decided to use the university laser to cut acrylic windows into the side panels of the case. Adding materials to the model really makes it pop
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--319ce6f0b21f5cf3263f8e4ff90d831a44f08cc2/image.png)
+
+  
 

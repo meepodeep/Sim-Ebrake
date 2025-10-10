@@ -23,3 +23,11 @@ I added the Pro Micro, hall effect sensor, magnet, and spring. I also modeled th
 
   
 
+## 10/10/2025 - DOCS and CHASSIS  
+
+Today I did a lot of documentation, and I also edited the chassis. Here is a pic from the readme. I added step-by-step instructions with pictures on how to build the ebrake! ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--528a8e544d26ad5dcf5d0fc1bc4c14451d5e3263/image.png)
+Along with the readme I also made my BOM today, heres that in sheets.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6bf0fae586b937d147b6a5689bf713fe5e643f7f/image.png)
+But the most interesting part of what I did was add moza handbrake mounting holes and changed the chassis design!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f19bdf5aa4b5fff704e47c82cfba0db3123b67f0/image.png)
+  
+

@@ -1,6 +1,6 @@
-# Sim-Ebrake
+# 2020 Brake
 Racing sim Ebrake that has the same bolt pattern as the Moza!
-## Why does this exist.
+## Why does this exist?
   I wanted an ebrake but all of the existing solutions either looked kind of boring or were extremely expensive (moza handbrake). 
 # Build
 ## Assembly

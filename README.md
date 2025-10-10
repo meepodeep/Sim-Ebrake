@@ -1,5 +1,7 @@
 # Sim-Ebrake
-Racing sim ebrake diy
+Racing sim Ebrake that has the same bolt pattern as the Moza!
+## Why does this exist.
+  I wanted an ebrake but all of the existing solutions either looked kind of boring or were extremely expensive (moza handbrake). 
 # Build
 ## Assembly
   1. Press the handle and bottom piece onto the V slot aluminum

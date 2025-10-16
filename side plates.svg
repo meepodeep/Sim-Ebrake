@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.70079 1122.5197"
+   width="793.70081"
+   height="1122.5197"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc1">side plates.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4" />
+  <g
+     id="g6">
+    <path
+       d="M 197.42236,1108.4845 H 57.513834 l -37.495647,-29.6092 80.353253,-205.59505 188.97638,-10e-6 z"
+       style="fill:none;stroke:#000000"
+       id="path5" />
+    <path
+       d="M 217.71203,1108.4845 309.6375,873.28025 h 355.36719 l 94.11956,235.20425 z"
+       style="fill:none;stroke:#000000"
+       id="path6" />
+    <path
+       d="M 197.42236,866.03359 H 57.513836 l -37.495647,-29.6092 80.353251,-205.59509 188.97638,-10e-6 z"
+       style="fill:none;stroke:#000000"
+       id="path5-7" />
+    <path
+       d="M 217.71203,866.03359 309.6375,630.8293 h 355.36719 l 94.11956,235.20429 z"
+       style="fill:none;stroke:#000000"
+       id="path6-0" />
+  </g>
+</svg>

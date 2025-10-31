@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Sim Ebrake**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/362).
-
-
 ## 10/9/2025 8 PM - Started the 3d model and part sourcing  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--a8d30a4551ce408ef164b63d73dfda106e6d0f4f/image.png)
@@ -29,5 +25,11 @@ Today I did a lot of documentation, and I also edited the chassis. Here is a pic
 Along with the readme I also made my BOM today, heres that in sheets.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6bf0fae586b937d147b6a5689bf713fe5e643f7f/image.png)
 But the most interesting part of what I did was add moza handbrake mounting holes and changed the chassis design!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f19bdf5aa4b5fff704e47c82cfba0db3123b67f0/image.png)
+  
+
+## 10/31/2025 - Assembled everything and redesigned some parts  
+
+I worked on assembling the thing. I soldered all the parts, I got the windows laser cut. And re fit the tolerance for the aluminum mount and for the handle.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--80f6ccbd83a53772ffed6a4ac4f0b4f949ca44d5/image.png)
   
 

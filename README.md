@@ -48,7 +48,7 @@ Racing sim Ebrake that has the same bolt pattern as the Moza!
   ### https://github.com/ranenbg/Arduino-FFB-wheel
   1. Download the Xloader folder
   2. Run the .exe
-  3. Click upload once you have selected the correct port
+  3. Click upload once you have selected the correct port and the correct hex file as according to the guide on ranebgs github
 
 ## BOM
 |Item                                 |Quantity                                                 |Total price+Shipping|Use In project           |Item Source                                                                                                                                                                                                                                                                      |

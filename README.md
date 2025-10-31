@@ -14,17 +14,17 @@ Racing sim Ebrake that has the same bolt pattern as the Moza!
      
   <img width="1000" height="735" alt="image" src="https://github.com/user-attachments/assets/4e3d7a5e-8dee-417c-9f4b-a0fc65ab530a" />
   
-  5. Put the pro micro in here and secure it with tape or hot glue
-     
-  <img width="562" height="589" alt="image" src="https://github.com/user-attachments/assets/e71b39ee-f070-4ad6-a131-a07b5246c2e7" />
+  5. Put the pro micro on the front after feeding the wires through the hole and secure it with tape or hot glue
   
   7. Double sided tape the hall sensor here
      
-  <img width="668" height="631" alt="image" src="https://github.com/user-attachments/assets/0e45d064-baa7-41d7-8003-08f3d7af7496" />
+ <img width="625" height="655" alt="image" src="https://github.com/user-attachments/assets/ff4b8edf-83dc-4a8d-b592-e1ac277ccce5" />
+
   
-  9. Double sided tape the magnet here
+  9. Hot glue the magnets here
       
-  <img width="540" height="468" alt="image" src="https://github.com/user-attachments/assets/f5c97d46-7c00-4b75-9312-cb6be462a577" />
+ <img width="625" height="655" alt="image" src="https://github.com/user-attachments/assets/1ee0bb8c-33f7-4d49-b906-62d46b28c92b" />
+
   
   11. Press fit bearings in each side of the base
       
